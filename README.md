@@ -1,0 +1,1 @@
+# mengimplementasikan-konsep-linked-list-untuk-membuat-stack
